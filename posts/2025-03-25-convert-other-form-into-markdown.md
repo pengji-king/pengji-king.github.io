@@ -1,3 +1,11 @@
+---
+layout: post
+title: "how to convert other forms of file into markdown"
+date: 2025-03-25
+categories: [making websites]
+tags: [git, notes,教程]
+---
+
 将其他格式的笔记（如 Word、PDF、HTML、纯文本等）转换为 Markdown 格式，可以借助工具和手动调整结合的方式。以下是详细方法和工具推荐：
 
 \---
