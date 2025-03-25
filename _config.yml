@@ -1,1 +1,12 @@
+# 基础配置
+title: "我的学习笔记"
+description: "记录日常学习内容"
+theme: jekyll-theme-minimal  # 使用官方主题（可选）
+# 或使用远程主题（如 Just the Docs）
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
+# 自定义配置
+permalink: /:year/:month/:title/  # 文章链接格式
+timezone: Asia/Shanghai           # 时区
